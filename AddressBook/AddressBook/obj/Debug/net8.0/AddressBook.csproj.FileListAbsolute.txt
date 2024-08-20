@@ -1,0 +1,14 @@
+C:\Users\Salim Saadi\source\repos\AddressBook\AddressBook\obj\Debug\net8.0\AddressBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salim Saadi\source\repos\AddressBook\AddressBook\obj\Debug\net8.0\AddressBook.AssemblyInfoInputs.cache
+C:\Users\Salim Saadi\source\repos\AddressBook\AddressBook\obj\Debug\net8.0\AddressBook.AssemblyInfo.cs
+C:\Users\Salim Saadi\source\repos\AddressBook\AddressBook\obj\Debug\net8.0\AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\Salim Saadi\source\repos\AddressBook\AddressBook\bin\Debug\net8.0\AddressBook.exe
+C:\Users\Salim Saadi\source\repos\AddressBook\AddressBook\bin\Debug\net8.0\AddressBook.deps.json
+C:\Users\Salim Saadi\source\repos\AddressBook\AddressBook\bin\Debug\net8.0\AddressBook.runtimeconfig.json
+C:\Users\Salim Saadi\source\repos\AddressBook\AddressBook\bin\Debug\net8.0\AddressBook.dll
+C:\Users\Salim Saadi\source\repos\AddressBook\AddressBook\bin\Debug\net8.0\AddressBook.pdb
+C:\Users\Salim Saadi\source\repos\AddressBook\AddressBook\obj\Debug\net8.0\AddressBook.dll
+C:\Users\Salim Saadi\source\repos\AddressBook\AddressBook\obj\Debug\net8.0\refint\AddressBook.dll
+C:\Users\Salim Saadi\source\repos\AddressBook\AddressBook\obj\Debug\net8.0\AddressBook.pdb
+C:\Users\Salim Saadi\source\repos\AddressBook\AddressBook\obj\Debug\net8.0\AddressBook.genruntimeconfig.cache
+C:\Users\Salim Saadi\source\repos\AddressBook\AddressBook\obj\Debug\net8.0\ref\AddressBook.dll
