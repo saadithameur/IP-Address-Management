@@ -10,8 +10,7 @@ A .NET 8.0 console application to manage IP addresses. Main functions are checki
 ## Setup and Run
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/ip-address-manager.git
-   cd ip-address-manager
+   git clone https://github.com/saadithameur/IP-Address-Management.git
 2. **Build the Application**
    ```bash
    dotnet build
